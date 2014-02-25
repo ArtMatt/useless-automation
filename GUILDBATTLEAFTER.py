@@ -1,0 +1,3 @@
+import masterca
+
+masterca.cycleGBA()
